@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: an incorrectly formed `if` statement.  The example shows the error and the correct solution. The bug is caused by the missing `then` keyword and an improper `else` statement.
